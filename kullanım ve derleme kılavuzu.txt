@@ -1,0 +1,11 @@
+Program Visual Studio 2010 da C# programlama dilinde hazýrlanmýþtýr
+Ýlk resimde görüldüðü gibi Visual Studio 2010 üzerinden open project ile 
+\Projects\WindowsFormsApplication4\WindowsFormsApplication4.sln uzantýdaki dosya seçildikten sonra 
+program dosyayý açar.ve Form1.cs kod arayüzüdür ve Form1.cs Design kýsmýnda ise görsel arayüz var
+Açýklamalar Form1.Cs içerindedir.Ctrl+F5 yolu ile program çalýþtýrýlabilir
+Ýstenirse
+\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug içerisinde çalýþtýrýlabilir.Dosya mevcuttur.Ýstenirse studio ile uðraþmadan exe haliyle çalýþtýrýlabilir.
+Ýstenirse \WindowsFormsApplication4\WindowsFormsApplication4/Form1.cs dosyasý notepad tarzý metin editörü programlar ile açýldýðýnda ayrýntýlý olarak görüntülenebilir
+
+
+
